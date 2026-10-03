@@ -79,6 +79,9 @@ selectors can require maintenance. Requests may also fail because of
 network issues or rate limiting. Consider adding request pacing,
 logging, and retry logic before running large scraping jobs.
 
+## Attached Output File
+
+I have also attached the `Top_Repository.csv` file to show how the final scraped dataset looks. Refer to this file to understand the output structure and the extracted data.
 
 ## Project Scope
 
